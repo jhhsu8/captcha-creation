@@ -1,1 +1,1 @@
-Using HTML/CSS and PHP, I created a form that allows users to create a CAPTCHA with their input.
+A CAPTCHA creation form created in PHP. The application allows the user to create a CAPTCHA by inputing characters.
